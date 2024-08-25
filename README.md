@@ -1,4 +1,4 @@
-About
+#About
 A responsive customer counter app inspired by the "passenger counter app in Learn JavaScript" course on Scrimba.com.
 
 Contents
