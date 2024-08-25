@@ -15,4 +15,10 @@ Inspired by the "Learn JavaScript" course on Scrimba.com, I added some extra fea
 
 Since I worked in a restaurant as a part time before. I restyled this app to be used in a restaurant setting since me and some of my colleagues are responsible for counting the customers/people as they entered the restaurant. Previously, we used a mechanical counter for this, but seeing as we do have an application for getting the customer's orders, I deecided to create one.
 
-I also added additional buttons for 'decrease' and 'reset'. The decrease button will 'decrease' the total customer count by 1 (in case of error) and the 'reset' button will reset the counter back to the zero.
+I also added additional buttons for 'decrease' and 'reset'. The decrease button will 'decrease' the total customer count by 1 (in case of error) and the 'reset' button will reset the counter back to the zero, during restaurant break time.
+
+## Screenshot
+
+## Status
+
+A live version of the app can be viewed at https://main--gentle-gaufre-897881.netlify.app/
